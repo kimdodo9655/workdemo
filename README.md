@@ -60,6 +60,7 @@
 
 #### 2) 블럭 코드(block code)
 - 백틱(\`) 3개로 html, css, java 등 코드를 작성할 때 사용한다.
+
     ``` java
     public static void main(String[] ages) {
         System.out.prientln("Hello java");

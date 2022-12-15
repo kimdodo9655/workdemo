@@ -71,10 +71,14 @@
 
 **굵은 글씨**
 _이텔릭_
-~~~취소선~~~
+~~취소선~~
 <U>밑줄</U>
 
 ### 링크 (link)
 
 [naver](https://www.naver.com/)
 [link](a.txt)
+다음 홈페이지 : <https://www.daum.net/>
+
+### 이미지 (images)
+![naver](https://static-whale.pstatic.net/main/img_darkmode_v12@2x.png)

@@ -76,11 +76,11 @@ __밑줄__
 
 ### 링크 (link)
 
-[naver](https://www.naver.com/){: target="_blank"}
+[naver](https://www.naver.com/){:target="_blank"}
 [link](a.txt){: target="_blank"}
-다음 홈페이지 : <https://www.daum.net/>{: target="_blank"}
+다음 홈페이지 : <https://www.daum.net/>{:target="_blank"}
 
 ### 이미지 (images)
 ![naver](https://ssl.pstatic.net/melona/libs/1425/1425841/53c2b0e9ae2be7d850fe_20221206101103180.jpg)
 ![box](./images/penguin.jpg)
-[![daum](./images/daum.png)](https://www.daum.net/){: target="_blank"}
+[![daum](./images/daum.png)](https://www.daum.net/){:target="_blank"}

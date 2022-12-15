@@ -81,4 +81,4 @@ _이텔릭_
 다음 홈페이지 : <https://www.daum.net/>
 
 ### 이미지 (images)
-![naver](https://static-whale.pstatic.net/main/img_darkmode_v12@2x.png)
+![naver](https://ssl.pstatic.net/melona/libs/1425/1425841/53c2b0e9ae2be7d850fe_20221206101103180.jpg)

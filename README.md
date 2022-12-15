@@ -85,3 +85,7 @@ __밑줄__
 ![box](./images/penguin.jpg)
 [![daum](./images/daum.png)](https://www.daum.net/)
 <img src="./images/daum.png" alt="daum">
+
+<a target="_blank" href="https://www.daum.net/">
+<img src="./images/daum.png" alt="daum">
+</a>
